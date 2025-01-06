@@ -14,12 +14,12 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Joseph's Blog # the main title
+title: Joseph's Tech Journal # the main title
 
-tagline: Try To Push My Self Harder # it will display as the subtitle
+tagline: Learning, Building, Sharing # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "Personal tech blog sharing insights on full-stack development, cloud infrastructure, and software engineering best practices from Tokyo."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
