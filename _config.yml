@@ -31,9 +31,6 @@ github:
 twitter:
   username: heyjosephme # change to your Twitter username
 
-linkedin:
-  username: heyjosephme
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -43,7 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://x.com/heyjosephme # change to your Twitter homepage
     - https://github.com/heyjosephme # change to your GitHub homepage
-    - https://www.linkedin.com/in/heyjosephme
+    # - https://www.linkedin.com/in/heyjosephme
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
