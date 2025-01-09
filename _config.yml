@@ -19,7 +19,7 @@ title: Joseph's Journal # the main title
 tagline: Learning, Building, Sharing # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  "Personal tech blog sharing insights on full-stack development, cloud infrastructure, and software engineering best practices from Tokyo."
+  "Personal blog chronicling life in Tokyo through the lens of a software engineer - from technical deep dives and book reviews to daily adventures in Japan, college life, and career journey."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
