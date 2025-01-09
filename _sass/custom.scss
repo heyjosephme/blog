@@ -1,0 +1,23 @@
+.portfolio-cta {
+  .btn {
+    padding: 0.5rem 1rem;
+    color: var(--text-color);
+    background: transparent;
+    border: 1px solid var(--text-color);
+    border-radius: 0.375rem;
+    box-shadow: none;
+
+    &:hover {
+      background: var(--text-color);
+      color: var(--sidebar-bg);
+      box-shadow: none;
+    }
+  }
+}
+
+.project-card {
+  border: 1px solid var(--text-color);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}

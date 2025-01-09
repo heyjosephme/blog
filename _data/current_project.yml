@@ -1,0 +1,22 @@
+name: "JobFlow"
+description: "A modern job application tracking system"
+tech_stack:
+  - Next.js
+  - TypeScript
+  - supabase
+  - shadcn/ui
+project_demo_image: /assets/img/jobflow_applications_index.png
+project_demo_alt: "JobFlow Applications Index Demo Page"
+
+status: "In Progress"
+status_color: "#10B981"
+# You might want to create a separate portfolio.yml for featured items
+#featured_items:
+#- title: "Project 1"
+#description: "Brief description of the project"
+#link: "https://project1.com"
+#image: "/assets/img/portfolio/project1.jpg"
+#- title: "Project 2"
+#  description: "Brief description of the project"
+#  link: "https://project2.com"
+#  image: "/assets/img/portfolio/project2.jpg"

@@ -1,0 +1,16 @@
+# Portfolio Configuration
+preview:
+  type: image # 'image', 'video', or 'iframe'
+  url: /assets/img/portfolio-preview.png
+  alt: "My Portfolio Preview"
+
+cta_url: https://heyjoseph.me
+cta_text: "View Full Portfolio"
+#featured_items:
+#- title: "Project 1"
+#description: "Description of project 1"
+#technologies: [React, Node.js, MongoDB]
+
+#- title: "Project 2"
+#description: "Description of project 2"
+#technologies: [Vue.js, Python, PostgreSQL]
